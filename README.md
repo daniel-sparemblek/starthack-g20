@@ -31,15 +31,15 @@ Dynamic Dashboard
 ### 3. Visuals
 **Screenshots of the Dashboard that visualises the data:**
 
-![Land Cover Changes of Years](https://drive.google.com/file/d/1KgyWoJ3Caz5RLJkigjjY6c7CwmfwrNVK/view?usp=drive_link)
+![Land Cover Changes of Years](https://github.com/daniel-sparemblek/starthack-g20/blob/main/images/viz1.png?raw=true)
 	 
-![Burned Areas and Protected Areas](!%5Benter%20image%20description%20here%5D%28https://drive.google.com/file/d/1LrXbVETZGDevn1Uof5cOzNDmvFbh7UDQ/view?usp=drive_link%29)
+![Burned Areas and Protected Areas](https://github.com/daniel-sparemblek/starthack-g20/blob/main/images/viz2.png?raw=true)
 
-![Population Evolution 2000-2020](https://drive.google.com/file/d/1PvKOle2IYUejHL2CK5dh17ocs3YtIaM4/view?usp=drive_link)
+![Population Evolution 2000-2020](https://github.com/daniel-sparemblek/starthack-g20/blob/main/images/viz3.png?raw=true)
 
-![Land Cover Differences](https://drive.google.com/file/d/1LIXosd6cPmcFlgn2GyOCFuwLpLenX_7S/view?usp=drive_link)
+![Land Cover Differences]((https://github.com/daniel-sparemblek/starthack-g20/blob/main/images/viz4.png?raw=true)
 
-![Dashboard](https://drive.google.com/file/d/1KX1Y7_OCHBQyJ6kZPYM7L6frgHilvL_5/view?usp=drive_link)
+![Dashboard](https://github.com/daniel-sparemblek/starthack-g20/blob/main/images/viz5.png?raw=true)
 
 ### 5. References and Research Literature
 We investigated the problem thoroughly and thanks to depth-through research papers, we were able to obtain a more profound understanding of the problem, potential solutions and limitations, therefore, we want to reference those papers for further investigation into the problem. 

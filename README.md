@@ -37,7 +37,7 @@ Dynamic Dashboard
 
 ![Population Evolution 2000-2020](https://github.com/daniel-sparemblek/starthack-g20/blob/main/images/viz3.png?raw=true)
 
-![Land Cover Differences]((https://github.com/daniel-sparemblek/starthack-g20/blob/main/images/viz4.png?raw=true)
+![Land Cover Differences](https://github.com/daniel-sparemblek/starthack-g20/blob/main/images/viz4.png?raw=true)
 
 ![Dashboard](https://github.com/daniel-sparemblek/starthack-g20/blob/main/images/viz5.png?raw=true)
 
